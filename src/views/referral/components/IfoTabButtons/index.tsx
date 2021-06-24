@@ -18,11 +18,9 @@ const IfoTabButtons = () => {
   const TranslateString = useI18n()
   return (
     <Wrapper>
-      <ButtonMenu activeIndex={!isExact ? 1 : 0} size="sm" variant="subtle">
-        <Button >
+      <Button >
           {TranslateString(292, 'Unlock Wallet')}
-        </Button>
-      </ButtonMenu>
+      </Button>
     </Wrapper>
   )
 }
