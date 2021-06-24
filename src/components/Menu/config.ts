@@ -31,6 +31,26 @@ const config: MenuEntry[] = [
     href: '/nests',
   },
   {
+    label: 'Vaults',
+    icon: 'InfoIcon',
+    href: '/nests',
+  },
+  {
+    label: 'Tanks',
+    icon: 'NftIcon',
+    href: '/nests',
+  },
+  {
+    label: 'IFO',
+    icon: 'IfoIcon',
+    href: '/ifo',
+  },
+  {
+    label: 'Referrals',
+    icon: 'GroupsIcon',
+    href: '/nests',
+  },
+  {
     label: 'Info',
     icon: 'InfoIcon',
     items: [

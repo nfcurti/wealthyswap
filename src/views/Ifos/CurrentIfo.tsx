@@ -53,7 +53,7 @@ const Ifo = () => {
           </List>
           <Flex mb="16px">
             <LinkExternal href="https://exchange.pancakeswap.finance/#/swap" mr="16px">
-              {TranslateString(999, 'Buy cake')}
+              {TranslateString(999, 'Buy WSWAP')}
             </LinkExternal>
             <LinkExternal href="https://exchange.pancakeswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
               {TranslateString(999, 'Get LP tokens')}
@@ -72,14 +72,14 @@ const Ifo = () => {
             <Button
               as="a"
               variant="secondary"
-              href="https://docs.pancakeswap.finance/core-products/ifo-initial-farm-offering"
+              href="https://www.bsc.news/post/cryptonomics-initial-farm-offerings-explanied"
             >
-              {TranslateString(610, 'Read more')}
+              {TranslateString(610, 'Read about IFOs')}
             </Button>
           </Text>
         </div>
         <div>
-          <Image src="/images/ifo-bunny.svg" alt="ifo bunny" width={436} height={406} responsive />
+          <Image src="/images/egg/3b.png" alt="ifo bunny" width={436} height={250} responsive />
           <div>
             <Title as="h2">{TranslateString(512, 'Want to launch your own IFO?')}</Title>
             <Text mb={3}>
