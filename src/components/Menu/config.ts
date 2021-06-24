@@ -48,7 +48,7 @@ const config: MenuEntry[] = [
   {
     label: 'Referrals',
     icon: 'GroupsIcon',
-    href: '/nests',
+    href: '/referral',
   },
   {
     label: 'Info',

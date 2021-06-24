@@ -1229,6 +1229,24 @@
         "stringId": 10003,
         "text": "公告"
       }
+    },
+    {
+      "data": {
+        "stringId": 10004,
+        "text": "Wealthy Swap Referral Program"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10005,
+        "text": "Share the referral link below to invite your friends and earn 1% of your friends earnings."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10007,
+        "text": "Unlock wallet to get your unique referral link"
+      }
     }
   ],
   "pagination": {
