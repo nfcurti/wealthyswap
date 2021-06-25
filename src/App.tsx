@@ -63,9 +63,6 @@ const App: React.FC = () => {
             <Route path="/Tanks">
               <Tanks/>
             </Route>
-            <Route path="/trade">
-              <Trade/>
-            </Route>
             {/* <Route path="/pools"> */}
             {/*  <Pools /> */}
             {/* </Route> */}
