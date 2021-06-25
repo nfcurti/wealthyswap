@@ -182,7 +182,7 @@ const farms: FarmConfig[] = [
     pid: 11,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'VIKING',
+    lpSymbol: 'WSWAP',
     lpAddresses: {
       97: '',
       56: '0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43', // VIKING-BUSD LP

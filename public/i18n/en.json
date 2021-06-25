@@ -1247,6 +1247,30 @@
         "stringId": 10007,
         "text": "Unlock wallet to get your unique referral link"
       }
+    },
+    {
+      "data": {
+        "stringId": 10008,
+        "text": "Wealth Tanks"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10009,
+        "text": "Stake WSWAP to earn other tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10010,
+        "text": "Get your Project Here!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10011,
+        "text": "Want to make your token available to stake for?"
+      }
     }
   ],
   "pagination": {

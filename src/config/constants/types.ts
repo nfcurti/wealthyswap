@@ -84,3 +84,4 @@ export type Nft = {
   sortOrder: number
   bunnyId: number
 }
+

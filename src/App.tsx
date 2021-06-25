@@ -17,6 +17,8 @@ const Farms = lazy(() => import('./views/Farms'))
 // const Pools = lazy(() => import('./views/Pools'))
 const Ifos = lazy(() => import('./views/Ifos'))
 const Referral = lazy(() => import('./views/referral'))
+const Tanks = lazy(() => import('./views/tanks'))
+const Trade = lazy(() => import('./views/Trade'))
 const NotFound = lazy(() => import('./views/NotFound'))
 // const Nft = lazy(() => import('./views/Nft'))
 
@@ -57,6 +59,12 @@ const App: React.FC = () => {
             </Route>
             <Route path="/referral">
               <Referral/>
+            </Route>
+            <Route path="/Tanks">
+              <Tanks/>
+            </Route>
+            <Route path="/trade">
+              <Trade/>
             </Route>
             {/* <Route path="/pools"> */}
             {/*  <Pools /> */}

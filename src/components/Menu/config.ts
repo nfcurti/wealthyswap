@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.vikingswap.finance/',
+        href: '/trade',
       },
       {
         label: 'Liquidity',
@@ -26,19 +26,14 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Armory',
+    label: 'Pools',
     icon: 'PoolIcon',
     href: '/nests',
   },
   {
-    label: 'Vaults',
-    icon: 'InfoIcon',
-    href: '/nests',
-  },
-  {
     label: 'Tanks',
-    icon: 'NftIcon',
-    href: '/nests',
+    icon: 'TradeIcon',
+    href: '/tanks',
   },
   {
     label: 'IFO',
